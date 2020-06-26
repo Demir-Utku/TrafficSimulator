@@ -274,3 +274,4 @@ If I run the program like 70 seconds or more, sometimes, crashes are happened.
 
 ### Screenshot of the Running Program
 
+![Screenshot of the program](https://github.com/Demir-Utku/TrafficSimulator/blob/master/screenshot.png)
