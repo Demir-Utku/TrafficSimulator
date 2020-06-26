@@ -16,7 +16,7 @@ Every road tile is a 239 by 239 pixel graphic sprite. Each tile has a set of two
 
 ![Road tile](https://github.com/Demir-Utku/TrafficSimulator/blob/master/waypoints.png)
 
-Classes:
+Classes in the first part:
 
 ```
 //RoadTile
@@ -102,7 +102,7 @@ void draw();
 
 In this second part of the project, I had done the simulation with 6 vehicles.
 
-Classes:
+Classes in the second part:
 
 ```
 //TrafficLight
